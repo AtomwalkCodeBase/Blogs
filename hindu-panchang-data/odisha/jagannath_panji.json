@@ -1,332 +1,376 @@
 {
   "2025-09-01": {
-    "tithi": "Pratipada",
-    "nakshatra": "Rohini",
-    "sunrise": "06:05 AM",
-    "sunset": "06:45 PM",
+    "tithi": "Tala Nabami",
+    "nakshatra": "Pushya",
+    "sunrise": "06:00 AM",
+    "sunset": "06:30 PM",
     "festivals": [
-      "Ratha Yatra"
+      "Thakura Anukula Chandranka Jayanti"
     ],
     "muhurats": [
       "Abhijit Muhurat: 12:00 PM - 12:48 PM"
     ]
   },
   "2025-09-02": {
-    "tithi": "Dwitiya",
-    "nakshatra": "Mrigashira",
-    "sunrise": "06:05 AM",
-    "sunset": "06:44 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-03": {
-    "tithi": "Tritiya",
-    "nakshatra": "Ardra",
-    "sunrise": "06:06 AM",
-    "sunset": "06:44 PM",
+    "tithi": "Pratipada",
+    "nakshatra": "Ashlesha",
+    "sunrise": "06:01 AM",
+    "sunset": "06:29 PM",
     "festivals": [
-      "Ganesh Chaturthi"
+      "None"
     ],
     "muhurats": [
-      "Ganesha Puja: 10:00 AM - 11:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-03": {
+    "tithi": "Dwitiya",
+    "nakshatra": "Magha",
+    "sunrise": "06:02 AM",
+    "sunset": "06:28 PM",
+    "festivals": [
+      "None"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-04": {
-    "tithi": "Chaturthi",
-    "nakshatra": "Punarvasu",
-    "sunrise": "06:06 AM",
-    "sunset": "06:43 PM",
+    "tithi": "Tritiya",
+    "nakshatra": "Purvaphalguni",
+    "sunrise": "06:03 AM",
+    "sunset": "06:27 PM",
     "festivals": [
-      "Durga Puja"
+      "Sunia",
+      "Bamana Janma",
+      "Indradwaja Puja"
     ],
     "muhurats": [
-      "Durga Puja: 09:00 AM - 10:30 AM"
+      "None"
     ]
   },
   "2025-09-05": {
-    "tithi": "Panchami",
-    "nakshatra": "Pushya",
-    "sunrise": "06:07 AM",
-    "sunset": "06:43 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-06": {
-    "tithi": "Shashthi",
-    "nakshatra": "Ashlesha",
-    "sunrise": "06:07 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Chaturthi",
+    "nakshatra": "Uttaphalguni",
+    "sunrise": "06:04 AM",
+    "sunset": "06:26 PM",
     "festivals": [
-      "Mahalaya"
+      "Guru Dibasa",
+      "Sarba Palli Radha Krishnan Jayanti",
+      "Mahapurusa Mahamadanka Janma Dibasa"
     ],
     "muhurats": [
-      "Mahalaya: 06:00 AM - 07:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-06": {
+    "tithi": "Panchami",
+    "nakshatra": "Hasta",
+    "sunrise": "06:05 AM",
+    "sunset": "06:25 PM",
+    "festivals": [
+      "None"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-07": {
-    "tithi": "Saptami",
-    "nakshatra": "Magha",
-    "sunrise": "06:08 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Shasthi",
+    "nakshatra": "Chitra",
+    "sunrise": "06:06 AM",
+    "sunset": "06:24 PM",
     "festivals": [
-      "Maha Ashtami"
+      "Indro Ustav Purnima",
+      "Bhagabata Janma",
+      "Chandra Puja"
     ],
     "muhurats": [
-      "Maha Ashtami: 08:00 AM - 09:30 AM"
+      "None"
     ]
   },
   "2025-09-08": {
-    "tithi": "Ashtami",
-    "nakshatra": "Purva Phalguni",
-    "sunrise": "06:08 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Saptami",
+    "nakshatra": "Swati",
+    "sunrise": "06:07 AM",
+    "sunset": "06:23 PM",
     "festivals": [
-      "Maha Navami"
+      "None"
     ],
     "muhurats": [
-      "Maha Navami: 07:30 AM - 09:00 AM"
+      "None"
     ]
   },
   "2025-09-09": {
-    "tithi": "Navami",
-    "nakshatra": "Uttara Phalguni",
-    "sunrise": "06:09 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Ashtami",
+    "nakshatra": "Vishakha",
+    "sunrise": "06:08 AM",
+    "sunset": "06:22 PM",
     "festivals": [
-      "Vijaya Dashami"
+      "None"
     ],
     "muhurats": [
-      "Vijaya Dashami: 10:00 AM - 11:30 AM"
+      "None"
     ]
   },
   "2025-09-10": {
-    "tithi": "Dashami",
-    "nakshatra": "Hasta",
+    "tithi": "Navami",
+    "nakshatra": "Anuradha",
     "sunrise": "06:09 AM",
-    "sunset": "06:40 PM",
-    "festivals": [],
+    "sunset": "06:21 PM",
+    "festivals": [
+      "None"
+    ],
     "muhurats": [
-      "Ekadashi Vrat: 06:00 AM - 07:30 AM"
+      "None"
     ]
   },
   "2025-09-11": {
-    "tithi": "Pratipada",
-    "nakshatra": "Rohini",
-    "sunrise": "06:05 AM",
-    "sunset": "06:45 PM",
+    "tithi": "Dashami",
+    "nakshatra": "Jyeshtha",
+    "sunrise": "06:10 AM",
+    "sunset": "06:20 PM",
     "festivals": [
-      "Ratha Yatra"
+      "Aswa Panchami"
     ],
     "muhurats": [
-      "Abhijit Muhurat: 12:00 PM - 12:48 PM"
+      "None"
     ]
   },
   "2025-09-12": {
-    "tithi": "Dwitiya",
-    "nakshatra": "Mrigashira",
-    "sunrise": "06:05 AM",
-    "sunset": "06:44 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-13": {
-    "tithi": "Tritiya",
-    "nakshatra": "Ardra",
-    "sunrise": "06:06 AM",
-    "sunset": "06:44 PM",
+    "tithi": "Ekadashi",
+    "nakshatra": "Mula",
+    "sunrise": "06:11 AM",
+    "sunset": "06:19 PM",
     "festivals": [
-      "Ganesh Chaturthi"
+      "None"
     ],
     "muhurats": [
-      "Ganesha Puja: 10:00 AM - 11:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-13": {
+    "tithi": "Dwadashi",
+    "nakshatra": "Purvashadha",
+    "sunrise": "06:12 AM",
+    "sunset": "06:18 PM",
+    "festivals": [
+      "Gaja Sasthi"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-14": {
-    "tithi": "Chaturthi",
-    "nakshatra": "Punarvasu",
-    "sunrise": "06:06 AM",
-    "sunset": "06:43 PM",
+    "tithi": "Tritiya",
+    "nakshatra": "Uttashadha",
+    "sunrise": "06:13 AM",
+    "sunset": "06:17 PM",
     "festivals": [
-      "Durga Puja"
+      "Deba Utthana",
+      "Mulasatmi",
+      "Sahasra Kumbha Abhiseka",
+      "Dwitiya Bamana Osa"
     ],
     "muhurats": [
-      "Durga Puja: 09:00 AM - 10:30 AM"
+      "None"
     ]
   },
   "2025-09-15": {
-    "tithi": "Panchami",
-    "nakshatra": "Pushya",
-    "sunrise": "06:07 AM",
-    "sunset": "06:43 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-16": {
-    "tithi": "Shashthi",
-    "nakshatra": "Ashlesha",
-    "sunrise": "06:07 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Chaturthi",
+    "nakshatra": "Shravana",
+    "sunrise": "06:14 AM",
+    "sunset": "06:16 PM",
     "festivals": [
-      "Mahalaya"
+      "None"
     ],
     "muhurats": [
-      "Mahalaya: 06:00 AM - 07:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-16": {
+    "tithi": "Panchami",
+    "nakshatra": "Dhanishta",
+    "sunrise": "06:15 AM",
+    "sunset": "06:15 PM",
+    "festivals": [
+      "None"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-17": {
-    "tithi": "Saptami",
-    "nakshatra": "Magha",
-    "sunrise": "06:08 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Shasthi",
+    "nakshatra": "Shatabhisha",
+    "sunrise": "06:16 AM",
+    "sunset": "06:14 PM",
     "festivals": [
-      "Maha Ashtami"
+      "Indira Ekadashi",
+      "Vishwakarma Puja"
     ],
     "muhurats": [
-      "Maha Ashtami: 08:00 AM - 09:30 AM"
+      "None"
     ]
   },
   "2025-09-18": {
-    "tithi": "Ashtami",
-    "nakshatra": "Purva Phalguni",
-    "sunrise": "06:08 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Saptami",
+    "nakshatra": "Purvabhadra",
+    "sunrise": "06:17 AM",
+    "sunset": "06:13 PM",
     "festivals": [
-      "Maha Navami"
+      "None"
     ],
     "muhurats": [
-      "Maha Navami: 07:30 AM - 09:00 AM"
+      "None"
     ]
   },
   "2025-09-19": {
-    "tithi": "Navami",
-    "nakshatra": "Uttara Phalguni",
-    "sunrise": "06:09 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Ashtami",
+    "nakshatra": "Uttabhadra",
+    "sunrise": "06:18 AM",
+    "sunset": "06:12 PM",
     "festivals": [
-      "Vijaya Dashami"
+      "None"
     ],
     "muhurats": [
-      "Vijaya Dashami: 10:00 AM - 11:30 AM"
+      "None"
     ]
   },
   "2025-09-20": {
-    "tithi": "Dashami",
-    "nakshatra": "Hasta",
-    "sunrise": "06:09 AM",
-    "sunset": "06:40 PM",
-    "festivals": [],
+    "tithi": "Navami",
+    "nakshatra": "Revati",
+    "sunrise": "06:19 AM",
+    "sunset": "06:11 PM",
+    "festivals": [
+      "None"
+    ],
     "muhurats": [
-      "Ekadashi Vrat: 06:00 AM - 07:30 AM"
+      "None"
     ]
   },
   "2025-09-21": {
-    "tithi": "Pratipada",
-    "nakshatra": "Rohini",
-    "sunrise": "06:05 AM",
-    "sunset": "06:45 PM",
+    "tithi": "Dashami",
+    "nakshatra": "Ashwini",
+    "sunrise": "06:20 AM",
+    "sunset": "06:10 PM",
     "festivals": [
-      "Ratha Yatra"
+      "Mahalaya Amavasya"
     ],
     "muhurats": [
-      "Abhijit Muhurat: 12:00 PM - 12:48 PM"
+      "None"
     ]
   },
   "2025-09-22": {
-    "tithi": "Dwitiya",
-    "nakshatra": "Mrigashira",
-    "sunrise": "06:05 AM",
-    "sunset": "06:44 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-23": {
-    "tithi": "Tritiya",
-    "nakshatra": "Ardra",
-    "sunrise": "06:06 AM",
-    "sunset": "06:44 PM",
+    "tithi": "Ekadashi",
+    "nakshatra": "Bharani",
+    "sunrise": "06:21 AM",
+    "sunset": "06:09 PM",
     "festivals": [
-      "Ganesh Chaturthi"
+      "Naba Ratri",
+      "Nabaratri",
+      "Sri Biraja Debinka Ratha Jatra"
     ],
     "muhurats": [
-      "Ganesha Puja: 10:00 AM - 11:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-23": {
+    "tithi": "Dwadashi",
+    "nakshatra": "Krittika",
+    "sunrise": "06:22 AM",
+    "sunset": "06:08 PM",
+    "festivals": [
+      "None"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-24": {
-    "tithi": "Chaturthi",
-    "nakshatra": "Punarvasu",
-    "sunrise": "06:06 AM",
-    "sunset": "06:43 PM",
+    "tithi": "Tritiya",
+    "nakshatra": "Rohini",
+    "sunrise": "06:23 AM",
+    "sunset": "06:07 PM",
     "festivals": [
-      "Durga Puja"
+      "None"
     ],
     "muhurats": [
-      "Durga Puja: 09:00 AM - 10:30 AM"
+      "None"
     ]
   },
   "2025-09-25": {
-    "tithi": "Panchami",
-    "nakshatra": "Pushya",
-    "sunrise": "06:07 AM",
-    "sunset": "06:43 PM",
-    "festivals": [],
-    "muhurats": []
-  },
-  "2025-09-26": {
-    "tithi": "Shashthi",
-    "nakshatra": "Ashlesha",
-    "sunrise": "06:07 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Chaturthi",
+    "nakshatra": "Mrigashira",
+    "sunrise": "06:24 AM",
+    "sunset": "06:06 PM",
     "festivals": [
-      "Mahalaya"
+      "None"
     ],
     "muhurats": [
-      "Mahalaya: 06:00 AM - 07:30 AM"
+      "None"
+    ]
+  },
+  "2025-09-26": {
+    "tithi": "Panchami",
+    "nakshatra": "Ardra",
+    "sunrise": "06:25 AM",
+    "sunset": "06:05 PM",
+    "festivals": [
+      "Biraja Debinka Astami Puja"
+    ],
+    "muhurats": [
+      "None"
     ]
   },
   "2025-09-27": {
-    "tithi": "Saptami",
-    "nakshatra": "Magha",
-    "sunrise": "06:08 AM",
-    "sunset": "06:42 PM",
+    "tithi": "Shasthi",
+    "nakshatra": "Punarvasu",
+    "sunrise": "06:26 AM",
+    "sunset": "06:04 PM",
     "festivals": [
-      "Maha Ashtami"
+      "Tapta Sasthi",
+      "Bilow Barani",
+      "Bela Barani"
     ],
     "muhurats": [
-      "Maha Ashtami: 08:00 AM - 09:30 AM"
+      "None"
     ]
   },
   "2025-09-28": {
-    "tithi": "Ashtami",
-    "nakshatra": "Purva Phalguni",
-    "sunrise": "06:08 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Saptami",
+    "nakshatra": "Pushya",
+    "sunrise": "06:27 AM",
+    "sunset": "06:03 PM",
     "festivals": [
-      "Maha Navami"
+      "Maa Durga Debinka Saptami Puja"
     ],
     "muhurats": [
-      "Maha Navami: 07:30 AM - 09:00 AM"
+      "None"
     ]
   },
   "2025-09-29": {
-    "tithi": "Navami",
-    "nakshatra": "Uttara Phalguni",
-    "sunrise": "06:09 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Dwitiya",
+    "nakshatra": "Anuradha",
+    "sunrise": "06:20 AM",
+    "sunset": "06:05 PM",
     "festivals": [
-      "Vijaya Dashami"
+      "None"
     ],
     "muhurats": [
-      "Vijaya Dashami: 10:00 AM - 11:30 AM"
+      "Abhijit Muhurat: 12:05 PM - 12:48 PM"
     ]
   },
   "2025-09-30": {
-    "tithi": "Dashami",
-    "nakshatra": "Hasta",
-    "sunrise": "06:09 AM",
-    "sunset": "06:40 PM",
-    "festivals": [],
+    "tithi": "Tritiya",
+    "nakshatra": "Jyeshtha",
+    "sunrise": "06:21 AM",
+    "sunset": "06:04 PM",
+    "festivals": [
+      "None"
+    ],
     "muhurats": [
-      "Ekadashi Vrat: 06:00 AM - 07:30 AM"
+      "None"
     ]
   },
   "2025-10-01": {
@@ -1176,15 +1220,16 @@
     ]
   },
   "2025-12-17": {
-    "tithi": "Ashtami",
-    "nakshatra": "Purva Phalguni",
-    "sunrise": "06:08 AM",
-    "sunset": "06:41 PM",
+    "tithi": "Indira Ekadashi (Ashwin Krishna Ekadashi)",
+    "nakshatra": "Rohini",
+    "sunrise": "06:05 AM",
+    "sunset": "06:45 PM",
     "festivals": [
-      "Maha Navami"
+      "Indira Ekadashi Vrat",
+      "Vishwakarma Puja"
     ],
     "muhurats": [
-      "Maha Navami: 07:30 AM - 09:00 AM"
+      "Abhijit Muhurat: 12:00 PM – 12:48 PM"
     ]
   },
   "2025-12-18": {
