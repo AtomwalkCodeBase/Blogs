@@ -1,78 +1,81 @@
 {
   "2025-09-01": {
-    "tithi": "Tala Nabami",
-    "nakshatra": "Pushya",
-    "sunrise": "06:00 AM",
+    "tithi": "Bhadrapada Shukla Navami",
+    "nakshatra": "Jyeshtha",
+    "sunrise": "06:08 AM",
     "sunset": "06:30 PM",
     "festivals": [
+      "Tala Navami",
       "Thakura Anukula Chandranka Jayanti"
     ],
     "muhurats": [
-      "Abhijit Muhurat: 12:00 PM - 12:48 PM"
+      "12:00 PM - 12:48 PM"
     ]
   },
   "2025-09-02": {
-    "tithi": "Pratipada",
-    "nakshatra": "Ashlesha",
-    "sunrise": "06:01 AM",
+    "tithi": "Bhadrapada Shukla Dashami",
+    "nakshatra": "Mula",
+    "sunrise": "06:08 AM",
     "sunset": "06:29 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      "3:44 PM - 5:20 PM"
     ]
   },
   "2025-09-03": {
-    "tithi": "Dwitiya",
-    "nakshatra": "Magha",
-    "sunrise": "06:02 AM",
+    "tithi": "Bhadrapada Shukla Ekadashi",
+    "nakshatra": "Purvashadha",
+    "sunrise": "06:08 AM",
     "sunset": "06:28 PM",
     "festivals": [
-      "None"
+      "Parshwa Parivaetana (Bada) Ekadashi", "Budhibamana Osha"
     ],
     "muhurats": [
-      "None"
+      "04:32 PM - 06:08 PM", "09:32 PM - 11:16 PM"
     ]
   },
   "2025-09-04": {
-    "tithi": "Tritiya",
-    "nakshatra": "Purvaphalguni",
-    "sunrise": "06:03 AM",
-    "sunset": "06:27 PM",
+    "tithi": "Bhadrapada Shukla Dwadashi",
+    "nakshatra": "Uttarashadha",
+    "sunrise": "06:08 AM",
+    "sunset": "06:28 PM",
     "festivals": [
-      "Sunia",
+      "Sunian",
       "Bamana Janma",
+      "Sal 1433 starts",
       "Indradwaja Puja"
     ],
     "muhurats": [
-      "None"
+      "06:08 AM - 07:44 AM", "10:56 AM - 01:20 PM"
     ]
   },
   "2025-09-05": {
-    "tithi": "Chaturthi",
-    "nakshatra": "Uttaphalguni",
-    "sunrise": "06:04 AM",
-    "sunset": "06:26 PM",
+    "tithi": "Bhadrapada Shukla Trayodashi",
+    "nakshatra": "Sharavana",
+    "sunrise": "06:08 AM",
+    "sunset": "06:27 PM",
     "festivals": [
       "Guru Dibasa",
       "Sarba Palli Radha Krishnan Jayanti",
-      "Mahapurusa Mahamadanka Janma Dibasa"
+      "Mahapurusa mahamad nka Janma Dibasa",
+      "Thiru Onam (Kerala)"
     ],
     "muhurats": [
-      "None"
+      "11:15 PM - 12:03 AM", "04:51 AM - 06:08 AM"
     ]
   },
   "2025-09-06": {
-    "tithi": "Panchami",
+    "tithi": "Bhadrapada Shukla Chatur",
     "nakshatra": "Hasta",
     "sunrise": "06:05 AM",
     "sunset": "06:25 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-07": {
@@ -86,7 +89,7 @@
       "Chandra Puja"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-08": {
@@ -95,10 +98,10 @@
     "sunrise": "06:07 AM",
     "sunset": "06:23 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-09": {
@@ -107,10 +110,10 @@
     "sunrise": "06:08 AM",
     "sunset": "06:22 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-10": {
@@ -119,10 +122,10 @@
     "sunrise": "06:09 AM",
     "sunset": "06:21 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-11": {
@@ -134,7 +137,7 @@
       "Aswa Panchami"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-12": {
@@ -143,10 +146,10 @@
     "sunrise": "06:11 AM",
     "sunset": "06:19 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-13": {
@@ -158,7 +161,7 @@
       "Gaja Sasthi"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-14": {
@@ -173,7 +176,7 @@
       "Dwitiya Bamana Osa"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-15": {
@@ -182,10 +185,10 @@
     "sunrise": "06:14 AM",
     "sunset": "06:16 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-16": {
@@ -194,10 +197,10 @@
     "sunrise": "06:15 AM",
     "sunset": "06:15 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-17": {
@@ -210,7 +213,7 @@
       "Vishwakarma Puja"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-18": {
@@ -219,10 +222,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:13 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-19": {
@@ -231,10 +234,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:12 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-20": {
@@ -243,10 +246,10 @@
     "sunrise": "06:19 AM",
     "sunset": "06:11 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-21": {
@@ -258,7 +261,7 @@
       "Mahalaya Amavasya"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-22": {
@@ -272,7 +275,7 @@
       "Sri Biraja Debinka Ratha Jatra"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-23": {
@@ -281,10 +284,10 @@
     "sunrise": "06:22 AM",
     "sunset": "06:08 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-24": {
@@ -293,10 +296,10 @@
     "sunrise": "06:23 AM",
     "sunset": "06:07 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-25": {
@@ -305,10 +308,10 @@
     "sunrise": "06:24 AM",
     "sunset": "06:06 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-26": {
@@ -320,7 +323,7 @@
       "Biraja Debinka Astami Puja"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-27": {
@@ -334,7 +337,7 @@
       "Bela Barani"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-28": {
@@ -346,7 +349,7 @@
       "Maa Durga Debinka Saptami Puja"
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-09-29": {
@@ -355,7 +358,7 @@
     "sunrise": "06:20 AM",
     "sunset": "06:05 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
       "Abhijit Muhurat: 12:05 PM - 12:48 PM"
@@ -367,10 +370,10 @@
     "sunrise": "06:21 AM",
     "sunset": "06:04 PM",
     "festivals": [
-      "None"
+      
     ],
     "muhurats": [
-      "None"
+      
     ]
   },
   "2025-10-01": {
