@@ -72,41 +72,39 @@
     "sunrise": "06:05 AM",
     "sunset": "06:25 PM",
     "festivals": [
-      
+      "Ananta Vrata", "Aghor Chatirdashi", "Shiva Chaturdashi"
     ],
     "muhurats": [
-      
+      "12:50 AM - 02:26 AM", "03:14 AM - 04:50 AM"
     ]
   },
   "2025-09-07": {
-    "tithi": "Shasthi",
-    "nakshatra": "Chitra",
-    "sunrise": "06:06 AM",
-    "sunset": "06:24 PM",
+    "tithi": "Bhadrapada Poornima",
+    "nakshatra": "Shatabhisha",
+    "sunrise": "06:08 AM",
+    "sunset": "06:26 PM",
     "festivals": [
-      "Indro Ustav Purnima",
-      "Bhagabata Janma",
-      "Chandra Puja"
+      "Indro Ustav Purnima", "Bhagabata Janma", "Chandra Puja"
     ],
     "muhurats": [
-      
+      "06:08 AM - 06:56 PM", "01:20 PM - 02:08 PM", "07:20 PM - 08:08 PM"
     ]
   },
   "2025-09-08": {
-    "tithi": "Saptami",
-    "nakshatra": "Swati",
+    "tithi": "Ashwina Krishna Pratipada",
+    "nakshatra": "Purvabhadra",
     "sunrise": "06:07 AM",
-    "sunset": "06:23 PM",
+    "sunset": "06:25 PM",
     "festivals": [
       
     ],
     "muhurats": [
-      
+      "03:44 PM - 05:20 PM"
     ]
   },
   "2025-09-09": {
-    "tithi": "Ashtami",
-    "nakshatra": "Vishakha",
+    "tithi": "Ashwina Krishna Dwitiya",
+    "nakshatra": "Uttarabhadra",
     "sunrise": "06:08 AM",
     "sunset": "06:22 PM",
     "festivals": [
@@ -117,32 +115,32 @@
     ]
   },
   "2025-09-10": {
-    "tithi": "Navami",
-    "nakshatra": "Anuradha",
+    "tithi": "Ashwina Krishna Tritiya",
+    "nakshatra": "Revati",
     "sunrise": "06:09 AM",
     "sunset": "06:21 PM",
     "festivals": [
-      
+
     ],
     "muhurats": [
       
     ]
   },
   "2025-09-11": {
-    "tithi": "Dashami",
-    "nakshatra": "Jyeshtha",
+    "tithi": "Ashwina Krishna Chaturthi",
+    "nakshatra": "Ashwini",
     "sunrise": "06:10 AM",
     "sunset": "06:20 PM",
     "festivals": [
-      "Aswa Panchami"
+      "Ashwa Panchami"
     ],
     "muhurats": [
-      
+      "06:08 AM - 07:44 AM ", "10:56 AM - 01:20 PM"
     ]
   },
   "2025-09-12": {
-    "tithi": "Ekadashi",
-    "nakshatra": "Mula",
+    "tithi": "ଆଶ୍ୱିନ କୃଷ୍ଣ ପଞ୍ଚମୀ",
+    "nakshatra": "ଦ୍ୱିଜ",
     "sunrise": "06:11 AM",
     "sunset": "06:19 PM",
     "festivals": [
@@ -217,22 +215,22 @@
     ]
   },
   "2025-09-18": {
-    "tithi": "Saptami",
-    "nakshatra": "Purvabhadra",
-    "sunrise": "06:17 AM",
-    "sunset": "06:13 PM",
+    "tithi": "ଆଶ୍ୱିନ କୃଷ୍ଣ ଦ୍ୱାଦଶୀ",
+    "nakshatra": "ପୁଷ୍ୟ",
+    "sunrise": "06:08 AM",
+    "sunset": "06:18 PM",
     "festivals": [
-      
+      "ଯତିମହାଳୟ"
     ],
     "muhurats": [
       
     ]
   },
   "2025-09-19": {
-    "tithi": "Ashtami",
-    "nakshatra": "Uttabhadra",
-    "sunrise": "06:18 AM",
-    "sunset": "06:12 PM",
+    "tithi": "ଆଶ୍ୱିନ କୃଷ୍ଣ ତ୍ରୟୋଦଶୀ",
+    "nakshatra": "ଆଶ୍ଳେଷା",
+    "sunrise": "06:08 AM",
+    "sunset": "06:17 PM",
     "festivals": [
       
     ],
@@ -241,10 +239,10 @@
     ]
   },
   "2025-09-20": {
-    "tithi": "Navami",
-    "nakshatra": "Revati",
-    "sunrise": "06:19 AM",
-    "sunset": "06:11 PM",
+    "tithi": "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ",
+    "nakshatra": "ମଘା",
+    "sunrise": "06:06 AM",
+    "sunset": "06:16 PM",
     "festivals": [
       
     ],
