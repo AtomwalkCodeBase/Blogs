@@ -1,0 +1,14 @@
+{
+  "2026-02-15": {
+    "tithi": "Magha Krishna Chaturdashi",
+    "nakshatra": "Shravana",
+    "sunrise": "06:20 AM",
+    "sunset": "06:05 PM",
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "muhurats": [
+      "12:08 PM - 12:52 PM"
+    ]
+  }
+}

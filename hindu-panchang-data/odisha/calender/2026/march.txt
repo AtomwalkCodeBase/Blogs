@@ -1,0 +1,26 @@
+{
+  "2026-03-03": {
+    "tithi": "Phalguna Shukla Purnima",
+    "nakshatra": "Uttara Phalguni",
+    "sunrise": "06:10 AM",
+    "sunset": "06:15 PM",
+    "festivals": [
+      "Holika Dahan"
+    ],
+    "muhurats": [
+      "12:07 PM - 12:51 PM"
+    ]
+  },
+  "2026-03-04": {
+    "tithi": "Phalguna Krishna Pratipada",
+    "nakshatra": "Hasta",
+    "sunrise": "06:09 AM",
+    "sunset": "06:16 PM",
+    "festivals": [
+      "Holi"
+    ],
+    "muhurats": [
+      "12:07 PM - 12:51 PM"
+    ]
+  }
+}
