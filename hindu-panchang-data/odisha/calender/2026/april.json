@@ -1,0 +1,27 @@
+{
+  "2026-04-02": {
+    "tithi": "Chaitra Shukla Navami",
+    "nakshatra": "Punarvasu",
+    "sunrise": "06:00 AM",
+    "sunset": "06:25 PM",
+    "festivals": [
+      "Ram Navami"
+    ],
+    "muhurats": [
+      "12:04 PM - 12:48 PM"
+    ]
+  },
+  "2026-04-14": {
+    "tithi": "Chaitra Krishna Amavasya",
+    "nakshatra": "Ashwini",
+    "sunrise": "05:55 AM",
+    "sunset": "06:30 PM",
+    "festivals": [
+      "Vaisakhi",
+      "Tamil New Year"
+    ],
+    "muhurats": [
+      "12:02 PM - 12:46 PM"
+    ]
+  }
+}
