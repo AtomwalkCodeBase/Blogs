@@ -10,5 +10,29 @@
     "muhurats": [
       "12:05 PM - 12:49 PM"
     ]
+  },
+  "2026-07-10": {
+    "tithi": "Ashadha Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "05:50 AM",
+    "sunset": "06:48 PM",
+    "festivals": [
+      "Yogini Ekadashi"
+    ],
+    "muhurats": [
+      "08:16 AM, Jul 10 - 05:22 AM, Jul 11"
+    ]
+  },
+  "2026-07-25": {
+    "tithi": "Ashadha Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "05:52 AM",
+    "sunset": "06:47 PM",
+    "festivals": [
+      "Devshayani Ekadashi"
+    ],
+    "muhurats": [
+      "09:12 AM, Jul 24 - 11:34 AM, Jul 25"
+    ]
   }
 }

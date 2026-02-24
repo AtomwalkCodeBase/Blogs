@@ -23,5 +23,29 @@
     "muhurats": [
       "12:02 PM - 12:46 PM"
     ]
+  },
+  "2026-04-13": {
+    "tithi": "Vaishakha Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "06:00 AM",
+    "sunset": "06:25 PM",
+    "festivals": [
+      "Varuthini Ekadashi"
+    ],
+    "muhurats": [
+      "01:16 AM, Apr 13 - 01:08 AM, Apr 14"
+    ]
+  },
+  "2026-04-27": {
+    "tithi": "Vaishakha Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "05:58 AM",
+    "sunset": "06:28 PM",
+    "festivals": [
+      "Mohini Ekadashi"
+    ],
+    "muhurats": [
+      "06:06 PM, Apr 26 - 06:15 PM, Apr 27"
+    ]
   }
 }

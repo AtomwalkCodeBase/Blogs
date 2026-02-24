@@ -10,5 +10,30 @@
     "muhurats": [
       "12:06 PM - 12:50 PM"
     ]
+  },
+  "2026-09-07": {
+    "tithi": "Bhadrapada Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "06:05 AM",
+    "sunset": "06:20 PM",
+    "festivals": [
+      "Aja Ekadashi"
+    ],
+    "muhurats": [
+      "07:29 PM, Sep 06 - 05:03 PM, Sep 07"
+    ]
+  },
+  "2026-09-22": {
+    "tithi": "Bhadrapada Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "06:07 AM",
+    "sunset": "06:15 PM",
+    "festivals": [
+      "Parsva Ekadashi",
+      "Vishnushrinkhala Yoga Dwadasi"
+    ],
+    "muhurats": [
+      "08:00 PM, Sep 21 - 09:43 PM, Sep 22"
+    ]
   }
 }

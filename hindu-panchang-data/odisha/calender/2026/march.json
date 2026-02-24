@@ -22,5 +22,30 @@
     "muhurats": [
       "12:07 PM - 12:51 PM"
     ]
+  },
+  "2026-03-15": {
+    "tithi": "Chaitra Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "06:10 AM",
+    "sunset": "06:15 PM",
+    "festivals": [
+      "Papamochani Ekadashi",
+      "Vishnushrinkhala Yoga Dwadasi"
+    ],
+    "muhurats": [
+      "08:10 AM, Mar 14 - 09:16 AM, Mar 15"
+    ]
+  },
+  "2026-03-29": {
+    "tithi": "Chaitra Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "06:05 AM",
+    "sunset": "06:20 PM",
+    "festivals": [
+      "Kamada Ekadashi"
+    ],
+    "muhurats": [
+      "08:45 AM, Mar 28 - 07:46 AM, Mar 29"
+    ]
   }
 }

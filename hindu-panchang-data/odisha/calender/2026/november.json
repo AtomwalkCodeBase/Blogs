@@ -10,5 +10,30 @@
     "muhurats": [
       "12:00 PM - 12:44 PM"
     ]
+  },
+   "2026-11-05": {
+    "tithi": "Kartika Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "06:20 AM",
+    "sunset": "05:55 PM",
+    "festivals": [
+      "Rama Ekadashi"
+    ],
+    "muhurats": [
+      "11:03 AM, Nov 04 - 10:35 AM, Nov 05"
+    ]
+  },
+  "2026-11-20": {
+    "tithi": "Kartika Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "06:25 AM",
+    "sunset": "05:50 PM",
+    "festivals": [
+      "Devutthana Ekadashi",
+      "Mokshada Ekadashi"
+    ],
+    "muhurats": [
+      "07:15 AM, Nov 20 - 06:31 AM, Nov 21"
+    ]
   }
 }
