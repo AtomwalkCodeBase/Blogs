@@ -1,0 +1,39 @@
+{
+  "2026-10-17": {
+    "tithi": "Kartika Krishna Amavasya",
+    "nakshatra": "Swati",
+    "sunrise": "06:10 AM",
+    "sunset": "06:10 PM",
+    "festivals": [
+      "Diwali",
+      "Lakshmi Puja"
+    ],
+    "muhurats": [
+      "12:03 PM - 12:47 PM"
+    ]
+  },
+   "2026-10-06": {
+    "tithi": "Ashwina Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "06:10 AM",
+    "sunset": "06:10 PM",
+    "festivals": [
+      "Indira Ekadashi"
+    ],
+    "muhurats": [
+      "02:07 AM, Oct 06 - 12:34 AM, Oct 07"
+    ]
+  },
+  "2026-10-22": {
+    "tithi": "Ashwina Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "06:12 AM",
+    "sunset": "06:05 PM",
+    "festivals": [
+      "Papankusha Ekadashi"
+    ],
+    "muhurats": [
+      "02:11 PM, Oct 21 - 02:47 PM, Oct 22"
+    ]
+  }
+}
