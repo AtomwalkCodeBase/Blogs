@@ -1,16 +1,4 @@
 {
-  "2026-12-25": {
-    "tithi": "Margashirsha Shukla Purnima",
-    "nakshatra": "Mrigashirsha",
-    "sunrise": "06:35 AM",
-    "sunset": "05:40 PM",
-    "festivals": [
-      "Gita Jayanti"
-    ],
-    "muhurats": [
-      "12:05 PM - 12:48 PM"
-    ]
-  },
    "2026-12-04": {
     "tithi": "Margashirsha Krishna Ekadashi",
     "nakshatra": "Krishna Ekadashi",
@@ -34,6 +22,19 @@
     ],
     "muhurats": [
       "10:09 PM, Dec 19 - 08:14 PM, Dec 20"
+    ]
+  },
+  "2026-12-25": {
+    "tithi": "Pausha Krishna Paksha",
+    "nakshatra": "Pushya",
+    "sunrise": "06:45 AM",
+    "sunset": "05:25 PM",
+    "festivals": [
+      "Mokshada Ekadashi",
+      "Gita Jayanti"
+    ],
+    "muhurats": [
+      "09:30 AM - 11:30 AM"
     ]
   }
 }

@@ -1,16 +1,4 @@
 {
-  "2026-02-15": {
-    "tithi": "Magha Krishna Chaturdashi",
-    "nakshatra": "Shravana",
-    "sunrise": "06:20 AM",
-    "sunset": "06:05 PM",
-    "festivals": [
-      "Maha Shivaratri"
-    ],
-    "muhurats": [
-      "12:08 PM - 12:52 PM"
-    ]
-  },
   "2026-02-13": {
     "tithi": "Phalguna Krishna Ekadashi",
     "nakshatra": "Krishna Ekadashi",
@@ -34,5 +22,19 @@
     "muhurats": [
       "12:33 AM, Feb 27 - 10:32 PM, Feb 27"
     ]
+  },
+  
+  "2026-02-15": {
+    "tithi": "Magha Krishna Chaturdashi",
+    "nakshatra": "Shravana",
+    "sunrise": "06:32 AM",
+    "sunset": "06:05 PM",
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "muhurats": [
+      "11:58 PM - 12:45 AM"
+    ]
   }
+
 }

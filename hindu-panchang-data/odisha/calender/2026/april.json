@@ -1,29 +1,5 @@
 {
-  "2026-04-02": {
-    "tithi": "Chaitra Shukla Navami",
-    "nakshatra": "Punarvasu",
-    "sunrise": "06:00 AM",
-    "sunset": "06:25 PM",
-    "festivals": [
-      "Ram Navami"
-    ],
-    "muhurats": [
-      "12:04 PM - 12:48 PM"
-    ]
-  },
-  "2026-04-14": {
-    "tithi": "Chaitra Krishna Amavasya",
-    "nakshatra": "Ashwini",
-    "sunrise": "05:55 AM",
-    "sunset": "06:30 PM",
-    "festivals": [
-      "Vaisakhi",
-      "Tamil New Year"
-    ],
-    "muhurats": [
-      "12:02 PM - 12:46 PM"
-    ]
-  },
+
   "2026-04-13": {
     "tithi": "Vaishakha Krishna Ekadashi",
     "nakshatra": "Krishna Ekadashi",
@@ -46,6 +22,32 @@
     ],
     "muhurats": [
       "06:06 PM, Apr 26 - 06:15 PM, Apr 27"
+    ]
+  },
+   "2026-04-02": {
+    "tithi": "Chaitra Purnima",
+    "nakshatra": "Chitra",
+    "sunrise": "05:55 AM",
+    "sunset": "06:35 PM",
+    "festivals": [
+      "Hanuman Jayanti"
+    ],
+    "muhurats": [
+      "10:30 AM - 12:15 PM"
+    ]
+  },
+  "2026-04-14": {
+    "tithi": "Vaishakha Krishna Paksha",
+    "nakshatra": "Ashwini",
+    "sunrise": "05:50 AM",
+    "sunset": "06:40 PM",
+    "festivals": [
+      "Tamil New Year",
+      "Vishu",
+      "Baisakhi"
+    ],
+    "muhurats": [
+      "09:15 AM - 11:30 AM"
     ]
   }
 }

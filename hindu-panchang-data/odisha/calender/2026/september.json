@@ -1,16 +1,5 @@
 {
-  "2026-09-26": {
-    "tithi": "Ashwin Shukla Dashami",
-    "nakshatra": "Shravana",
-    "sunrise": "06:05 AM",
-    "sunset": "06:20 PM",
-    "festivals": [
-      "Dussehra (Vijaya Dashami)"
-    ],
-    "muhurats": [
-      "12:06 PM - 12:50 PM"
-    ]
-  },
+
   "2026-09-07": {
     "tithi": "Bhadrapada Krishna Ekadashi",
     "nakshatra": "Krishna Ekadashi",
@@ -35,5 +24,30 @@
     "muhurats": [
       "08:00 PM, Sep 21 - 09:43 PM, Sep 22"
     ]
+  },
+  "2026-09-04": {
+    "tithi": "Bhadrapada Krishna Ashtami",
+    "nakshatra": "Rohini",
+    "sunrise": "06:00 AM",
+    "sunset": "06:25 PM",
+    "festivals": [
+      "Krishna Janmashtami"
+    ],
+    "muhurats": [
+      "11:30 PM - 12:30 AM"
+    ]
+  },
+  "2026-09-17": {
+    "tithi": "Bhadrapada Shukla Chaturthi",
+    "nakshatra": "Hasta",
+    "sunrise": "06:05 AM",
+    "sunset": "06:20 PM",
+    "festivals": [
+      "Ganesh Chaturthi"
+    ],
+    "muhurats": [
+      "11:00 AM - 01:00 PM"
+    ]
   }
+
 }

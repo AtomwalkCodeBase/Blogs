@@ -1,16 +1,4 @@
 {
-  "2026-05-01": {
-    "tithi": "Vaishakha Shukla Tritiya",
-    "nakshatra": "Rohini",
-    "sunrise": "05:50 AM",
-    "sunset": "06:40 PM",
-    "festivals": [
-      "Akshaya Tritiya"
-    ],
-    "muhurats": [
-      "12:00 PM - 12:45 PM"
-    ]
-  },
   "2026-05-13": {
     "tithi": "Jyeshtha Krishna Ekadashi",
     "nakshatra": "Krishna Ekadashi",
@@ -34,6 +22,18 @@
     ],
     "muhurats": [
       "05:10 AM, May 26 - 06:21 AM, May 27"
+    ]
+  },
+  "2026-05-01": {
+    "tithi": "Vaishakha Purnima",
+    "nakshatra": "Vishakha",
+    "sunrise": "05:40 AM",
+    "sunset": "06:50 PM",
+    "festivals": [
+      "Buddha Purnima"
+    ],
+    "muhurats": [
+      "10:00 AM - 12:00 PM"
     ]
   }
 }
