@@ -1,0 +1,50 @@
+{
+  "2026-07-10": {
+    "tithi": "Ashadha Krishna Ekadashi",
+    "nakshatra": "Krishna Ekadashi",
+    "sunrise": "05:50 AM",
+    "sunset": "06:48 PM",
+    "festivals": [
+      "Yogini Ekadashi"
+    ],
+    "muhurats": [
+      "08:16 AM, Jul 10 - 05:22 AM, Jul 11"
+    ]
+  },
+  "2026-07-25": {
+    "tithi": "Ashadha Shukla Ekadashi",
+    "nakshatra": "Shukla Ekadashi",
+    "sunrise": "05:52 AM",
+    "sunset": "06:47 PM",
+    "festivals": [
+      "Devshayani Ekadashi"
+    ],
+    "muhurats": [
+      "09:12 AM, Jul 24 - 11:34 AM, Jul 25"
+    ]
+  },
+  "2026-07-16": {
+    "tithi": "Ashadha Shukla Dwitiya",
+    "nakshatra": "Pushya",
+    "sunrise": "05:35 AM",
+    "sunset": "07:00 PM",
+    "festivals": [
+      "Jagannath Rath Yatra"
+    ],
+    "muhurats": [
+      "09:30 AM - 12:00 PM"
+    ]
+  },
+  "2026-07-29": {
+    "tithi": "Ashadha Purnima",
+    "nakshatra": "Uttara Ashadha",
+    "sunrise": "05:40 AM",
+    "sunset": "06:55 PM",
+    "festivals": [
+      "Guru Purnima"
+    ],
+    "muhurats": [
+      "10:00 AM - 11:45 AM"
+    ]
+  }
+}
